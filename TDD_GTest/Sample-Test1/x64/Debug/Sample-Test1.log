@@ -1,0 +1,153 @@
+﻿  pch.cpp
+d:\g116\gtest\include\gtest\internal\gtest-port.h(996): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+d:\g116\gtest\include\gtest\internal\gtest-port.h(997): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+d:\g116\gtest\include\gtest\internal\gtest-port.h(998): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+d:\g116\gtest\include\gtest\internal\gtest-port.h(999): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+d:\g116\gtest\include\gtest\internal\gtest-port.h(1000): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+d:\g116\gtest\include\gtest\gtest-printers.h(600): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+d:\g116\gtest\include\gtest\gtest-printers.h(605): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+d:\g116\gtest\include\gtest\gtest-printers.h(610): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+d:\g116\gtest\include\gtest\gtest-printers.h(615): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+d:\g116\gtest\include\gtest\gtest-printers.h(620): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+d:\g116\gtest\include\gtest\gtest-printers.h(625): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+d:\g116\gtest\include\gtest\gtest-printers.h(632): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+d:\g116\gtest\include\gtest\gtest-printers.h(639): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+d:\g116\gtest\include\gtest\gtest-printers.h(646): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+d:\g116\gtest\include\gtest\gtest-printers.h(653): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+d:\g116\gtest\include\gtest\gtest-printers.h(661): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+d:\g116\gtest\include\gtest\gtest-printers.h(878): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+  d:\g116\gtest\include\gtest\gtest-printers.h(878): note: 参见对正在编译的 类 模板 实例化 "testing::internal::TuplePolicy<TupleT>::tuple_element<I>" 的引用
+  d:\g116\gtest\include\gtest\gtest-printers.h(886): note: 参见对正在编译的 类 模板 实例化 "testing::internal::TuplePolicy<TupleT>" 的引用
+d:\g116\gtest\include\gtest\gtest-printers.h(882): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+d:\g116\gtest\include\gtest\gtest-printers.h(875): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+  d:\g116\gtest\include\gtest\gtest-printers.h(961): note: 参见对正在编译的 类 模板 实例化 "testing::internal::TuplePolicy<Tuple>" 的引用
+          with
+          [
+              Tuple=std::tuple<>
+          ]
+  d:\g116\gtest\include\gtest\gtest-printers.h(601): note: 参见对正在编译的函数 模板 实例化“void testing::internal::PrintTupleTo<std::tuple<>>(const T &,std::ostream *)”的引用
+          with
+          [
+              T=std::tuple<>
+          ]
+  TennisTest.cpp
+  RomanNumbersTest.cpp
+  WeatherBoardTest.cpp
+d:\g116\gtest\include\gtest\gtest-printers.h(875): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+  d:\g116\gtest\include\gtest\gtest-printers.h(961): note: 参见对正在编译的 类 模板 实例化 "testing::internal::TuplePolicy<Tuple>" 的引用
+          with
+          [
+              Tuple=std::tuple<std::string>
+          ]
+  d:\g116\gtest\include\gtest\gtest-printers.h(606): note: 参见对正在编译的函数 模板 实例化“void testing::internal::PrintTupleTo<std::tuple<A1>>(const Tuple &,std::ostream *)”的引用
+          with
+          [
+              A1=std::string,
+              Tuple=std::tuple<std::string>
+          ]
+  d:\g116\gtest\include\gtest\gtest-printers.h(707): note: 参见对正在编译的函数 模板 实例化“void testing::internal::PrintTo<A1>(const std::tuple<A1> &,std::ostream *)”的引用
+          with
+          [
+              A1=std::string
+          ]
+  d:\g116\gtest\include\gtest\gtest-printers.h(698): note: 编译 类 模板 成员函数 "void testing::internal::UniversalPrinter<T1>::Print(const T &,std::ostream *)" 时
+          with
+          [
+              T=T1
+          ]
+  d:\g116\gtest\include\gtest\gtest-printers.h(856): note: 参见对正在编译的函数 模板 实例化“void testing::internal::UniversalPrinter<T1>::Print(const T &,std::ostream *)”的引用
+          with
+          [
+              T=T1
+          ]
+  d:\g116\gtest\include\gtest\gtest-printers.h(856): note: 参见对正在编译的 类 模板 实例化 "testing::internal::UniversalPrinter<T1>" 的引用
+  d:\g116\gtest\include\gmock\gmock-spec-builders.h(1710): note: 参见对正在编译的函数 模板 实例化“void testing::internal::UniversalPrint<std::tuple<A1>>(const T &,std::ostream *)”的引用
+          with
+          [
+              A1=std::string,
+              T=std::tuple<std::string>
+          ]
+  d:\g116\gtest\include\gmock\gmock-spec-builders.h(1707): note: 编译 类 模板 成员函数 "void testing::internal::FunctionMockerBase<R (A1)>::UntypedPrintArgs(const void *,std::ostream *) const" 时
+          with
+          [
+              R=std::string,
+              A1=std::string
+          ]
+  d:\g116\gtest\include\gmock\gmock-generated-function-mockers.h(86): note: 参见对正在编译的 类 模板 实例化 "testing::internal::FunctionMockerBase<R (A1)>" 的引用
+          with
+          [
+              R=std::string,
+              A1=std::string
+          ]
+  d:\g116\sample-test1\weatherboardtest.cpp(10): note: 参见对正在编译的 类 模板 实例化 "testing::internal::FunctionMocker<std::string (std::string)>" 的引用
+d:\g116\gtest\include\gtest\gtest-printers.h(882): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+d:\g116\gtest\include\gtest\gtest-printers.h(878): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+  d:\g116\gtest\include\gtest\gtest-printers.h(931): note: 参见对正在编译的 类 模板 实例化 "testing::internal::TuplePolicy<Tuple>::tuple_element<0>" 的引用
+          with
+          [
+              Tuple=std::tuple<std::string>
+          ]
+  d:\g116\gtest\include\gtest\gtest-printers.h(961): note: 参见对正在编译的函数 模板 实例化“void testing::internal::TuplePrefixPrinter<1>::PrintPrefixTo<Tuple>(const Tuple &,std::ostream *)”的引用
+          with
+          [
+              Tuple=std::tuple<std::string>
+          ]
+  d:\g116\gtest\include\gtest\gtest-printers.h(961): note: 参见对正在编译的函数 模板 实例化“void testing::internal::TuplePrefixPrinter<1>::PrintPrefixTo<Tuple>(const Tuple &,std::ostream *)”的引用
+          with
+          [
+              Tuple=std::tuple<std::string>
+          ]
+  d:\g116\gtest\include\gtest\gtest-printers.h(606): note: 参见对正在编译的函数 模板 实例化“void testing::internal::PrintTupleTo<std::tuple<A1>>(const Tuple &,std::ostream *)”的引用
+          with
+          [
+              A1=std::string,
+              Tuple=std::tuple<std::string>
+          ]
+d:\g116\gtest\include\gtest\gtest-printers.h(884): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(1333): note: 参见“std::tr1”的声明
+  d:\g116\gtest\include\gtest\gtest-printers.h(932): note: 参见对正在编译的函数 模板 实例化“const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &testing::internal::TuplePolicy<Tuple>::get<0>(const std::tuple<A1> &)”的引用
+          with
+          [
+              Tuple=std::tuple<std::string>,
+              A1=std::string
+          ]
+  d:\g116\gtest\include\gtest\gtest-printers.h(932): note: 参见对正在编译的函数 模板 实例化“const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &testing::internal::TuplePolicy<Tuple>::get<0>(const std::tuple<A1> &)”的引用
+          with
+          [
+              Tuple=std::tuple<std::string>,
+              A1=std::string
+          ]
+  d:\g116\gtest\include\gtest\gtest-printers.h(961): note: 参见对正在编译的函数 模板 实例化“void testing::internal::TuplePrefixPrinter<1>::PrintPrefixTo<Tuple>(const Tuple &,std::ostream *)”的引用
+          with
+          [
+              Tuple=std::tuple<std::string>
+          ]
+  d:\g116\gtest\include\gtest\gtest-printers.h(961): note: 参见对正在编译的函数 模板 实例化“void testing::internal::TuplePrefixPrinter<1>::PrintPrefixTo<Tuple>(const Tuple &,std::ostream *)”的引用
+          with
+          [
+              Tuple=std::tuple<std::string>
+          ]
+  正在生成代码...
+gtest.lib(gtest-all.obj) : fatal error LNK1112: 模块计算机类型“x86”与目标计算机类型“x64”冲突
