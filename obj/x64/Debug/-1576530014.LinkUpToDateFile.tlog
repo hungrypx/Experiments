@@ -1,1 +1,0 @@
-g++ -o "/home/hungry/projects/Test/bin/x64/Debug/Test.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/hungry/projects/Test/../Test/obj/x64/Debug/CSingleton.o /home/hungry/projects/Test/../Test/obj/x64/Debug/main.o
